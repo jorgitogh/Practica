@@ -3,7 +3,7 @@ Ejercicio mate
 
 # Claudia calcula la siguiente expresion:
 
-(2+2)*3-4/2-1=178
+(2+2)*3-4/2-1=9
 
 # Bruno calcula:
 
